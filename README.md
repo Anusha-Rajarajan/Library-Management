@@ -23,5 +23,15 @@ In this module the user can cancel their name which is registered for the Book.
 Star UML
 ### UML Diagrams:
 
+Developed by Anusha R , 212221230006
+
+Usecase diagram :
+![libclassv](https://github.com/Anusha-Rajarajan/Library-Management/assets/93427472/7c9cb6ec-782c-448e-801f-9e9b508f5e06)
+
+Class diagram :
+![linusevv](https://github.com/Anusha-Rajarajan/Library-Management/assets/93427472/43e44f1b-bc5a-4e65-873a-4dc9d764c548)
+
+
 ### RESULT:
+
 Thus the Library management system project was executed and the output was verified.
