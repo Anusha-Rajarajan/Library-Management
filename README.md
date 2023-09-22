@@ -31,6 +31,16 @@ Usecase diagram :
 Class diagram :
 ![linusevv](https://github.com/Anusha-Rajarajan/Library-Management/assets/93427472/43e44f1b-bc5a-4e65-873a-4dc9d764c548)
 
+Activity diagram :
+
+![image](https://github.com/Anusha-Rajarajan/Library-Management/assets/93427472/2b329256-6e4a-4e63-9dd0-40c6394599b7)
+
+Sequence diagram :
+![image](https://github.com/Anusha-Rajarajan/Library-Management/assets/93427472/b6beb058-ee58-4862-b518-54765e27cd44)
+
+Communication diagram
+![image](https://github.com/Anusha-Rajarajan/Library-Management/assets/93427472/b7b0f3c9-dd5b-4a6c-957e-138706357de5)
+
 
 ### RESULT:
 
